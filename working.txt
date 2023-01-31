@@ -1,0 +1,1 @@
+This calculator can be used on webpage and it shows good functionality.
